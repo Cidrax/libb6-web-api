@@ -1,0 +1,1 @@
+export const SOCKET_SERVER = 'http://192.168.1.28:4000';
